@@ -47,7 +47,7 @@ body
     background-size: 22px;
 }
 
-.box ul li.checked
+.checked
 {
     color: #99C794;
     background-image: url('circle-check-regular.svg');
